@@ -9,7 +9,7 @@ print("*******************************\n")
 
 file =  os.path.join(sys.path[0], "bdix_url_local.txt")
 if os.path.exists(file) == False:
-    url = "https://raw.githubusercontent.com/sakibzzz641/Bdix/main/BDIX_url.txt"
+    url = "https://raw.githubusercontent.com/sakibzzz641/sakibftp/main/BDIX_url.txt"
     wget.download(url,file)
 url_list = open(os.path.join(sys.path[0], "bdix_url_local.txt"),'r+')
 
