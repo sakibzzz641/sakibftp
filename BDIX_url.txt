@@ -43,7 +43,6 @@ http://10.16.100.244
 http://10.16.100.202/ftps10
 http://10.16.100.206/ftps3
 https://pastebin.com/VpXpmMjQ
-http://www.antbd.net
 http://103.237.37.181
 http://dhakamovie.com
 http://103.43.148.68
@@ -70,6 +69,7 @@ http://movies.fnfonlinebd.com
 http://103.152.18.18
 http://103.152.18.18/Data
 http://ihub.live
+https://www.bioscopelive.com/
 http://sg-cdn.ihub.live:8787/download/games
 http://www.smartflix.digital
 http://www.smartstudio.digital
@@ -107,10 +107,8 @@ http://172.17.172.242
 https://www.dfnbd.net
 http://media.dfnbd.net
 http://172.17.254.2
-https://planet3communication.com
 http://www.candybd.net
 http://candybd.net/upload/source/movies
-http://ftp.mcnbd.com
 http://fun.mcnbd.com
 http://12.1.1.2
 http://12.1.1.3/flix
@@ -246,8 +244,6 @@ http://172.27.100.3
 https://www.dreamonlinebd.com
 https://www.dolyitcorner.net
 http://172.17.17.17
-http://www.durantonetworkbd.com
-https://www.didarit.com
 https://dekhobd.com
 http://dlnsbd.net
 http://evolutionnet.info
@@ -258,7 +254,6 @@ http://exploreonlinebd.net
 http://103.222.20.150
 http://103.222.20.150/ftpdata
 https://epnetbd.com
-http://www.ectlink.com
 http://download.ectlink.com
 http://www.enjoy.net.bd
 http://103.115.82.254
@@ -271,7 +266,6 @@ http://203.96.191.70
 http://203.96.191.70/Data
 http://plexbd.net
 http://plexbd.net/Data
-http://www.evillagectg.com
 http://www.ctgflix.com
 http://fs.evillagectg.com
 http://www.ctghall.com
