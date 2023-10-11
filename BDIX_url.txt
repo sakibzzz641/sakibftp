@@ -5,6 +5,7 @@ http://server1.ftpbd.net
 http://server4.ftpbd.net
 http://103.170.204.84
 http://new.circleftp.net
+http://ftp.midiplexhd.com
 http://circleftp.net
 http://15.1.1.4
 http://ftp4.circleftp.net
@@ -333,6 +334,7 @@ http://www.hilsabd.com
 http://203.190.8.210
 http://hostxy.com
 https://helloitbd.com
+http://cdn.bandhon.com.bd
 https://helloitbd.com/category/all-server-list
 http://103.156.66.45
 http://103.156.66.58/m4t1
@@ -343,6 +345,7 @@ http://www.itbasebd.com
 http://imonlineisp.net
 http://www.intrepidbd.com
 http://103.203.94.1:8065
+http://103.203.94.2
 http://inoxbd.com
 https://ismart.net.bd
 https://internetzonebd.com
