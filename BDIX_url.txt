@@ -6,6 +6,7 @@ http://server4.ftpbd.net
 http://103.170.204.84
 http://new.circleftp.net
 http://ftp.midiplexhd.com
+http://45.250.20.254/collection/
 http://circleftp.net
 http://15.1.1.4
 http://ftp4.circleftp.net
