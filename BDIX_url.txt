@@ -14,11 +14,13 @@ http://ftp4.circleftp.net
 http://15.1.1.5
 http://103.109.56.115/
 http://old.circleftp.net
+http://movies.sarailnet.com/
 http://emby.circleftp.net:8096
 http://172.16.50.4
 http://172.16.50.5
 http://movie.sambd.net:8096
 https://samftp.com
+http://103.82.8.194/Data/
 http://khulnaflix.net
 http://103.153.175.254/NAS1
 http://bokasoka.net
