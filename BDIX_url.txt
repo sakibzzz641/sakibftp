@@ -17,6 +17,7 @@ http://old.circleftp.net
 http://movies.sarailnet.com/
 http://emby.circleftp.net:8096
 http://172.16.50.4
+https://bongobd.com/
 http://172.16.50.5
 http://movie.sambd.net:8096
 https://samftp.com
