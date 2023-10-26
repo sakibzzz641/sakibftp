@@ -56,5 +56,5 @@ for i in bdix_list_final:
 final_urls.close()
 
 print("\nFetched",len(bdix_list_final),"sites\n")
-print("\nCheck 'data.txt' file for working URLS\nEnjoy!! \nCreated and Maintained By Shantanu Dey Anik")
-print("\nFacebook: www.facebook.com/shantanu.anik.dey ")
+print("\nCheck 'data.txt' file for working URLS\nEnjoy!! \nCreated and Maintained By MD SAKIB AL HASAN")
+print("\nFacebook: www.facebook.com/sakibzzz641 ")
