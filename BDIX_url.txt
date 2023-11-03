@@ -19,6 +19,8 @@ http://movies.sarailnet.com
 http://emby.circleftp.net:8096
 http://172.16.50.4
 https://bongobd.com/
+http://abistation.net
+http://abistation.net/Data
 http://172.16.50.5
 http://movie.sambd.net:8096
 https://nowhdtime.com.bd
