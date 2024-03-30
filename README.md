@@ -6,7 +6,7 @@ pkg install python
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
-cd BDIX_Tester_py
+cd sakibftp
 
 pip install -r requirements.txt
 
@@ -16,7 +16,7 @@ python bdix.py
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
-cd BDIX_Tester_py
+cd sakibftp
 
 pip install -r requirements.txt
 
@@ -30,7 +30,7 @@ sudo apt-get install git
 
 git clone https://github.com/Shantanu2645/BDIX_Tester_py
 
-cd BDIX_Tester_py
+cd sakibftp
 
 pip3 install -r requirements.txt
 
