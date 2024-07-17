@@ -516,7 +516,6 @@ http://media.radiantbd.com
 http://www.radiantbd.net
 http://cdn2.radiantbd.com
 https://realstation.live
-https://rlcafenet.com
 https://rsnetbd.com
 http://103.251.247.147
 http://www.rdconlinebd.net
@@ -602,7 +601,6 @@ http://www.starnetworkbd.com
 https://www.skynet.com.bd
 https://staronline.com.bd
 http://www.come2speed.com
-https://speedlinkbd.com 
 https://www.tetrasoftbd.com
 http://tetraplex.net.bd
 http://www.tnetftp.com
