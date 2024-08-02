@@ -192,12 +192,10 @@ http://cdn1.bossbd.net
 http://cdn2.bossbd.net
 http://www.bdlan.net
 http://www.bitnetbd.com
-http://www.bdspeed.com
 http://www.bolmovies.com
 http://103.112.63.21
 http://www.btekinternet.com
 https://bonsaihd.live
-https://basnetbd.com
 http://103.87.212.46
 http://10.20.30.40
 http://movie.basnetbd.com
@@ -216,10 +214,7 @@ http://103.117.229.242/Data
 http://bdcineplex.com
 https://bdflixlive.com
 https://bhalukabroadband.com
-https://binimoynet.com
 http://www.beaconlink.net
-http://www.bdminternet.com
-https://www.cmclbd.com
 http://tokis.xyz
 http://www.sktraders.net
 http://103.81.104.98
