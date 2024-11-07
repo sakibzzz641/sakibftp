@@ -8,6 +8,7 @@ http://103.58.73.9
 http://media.ftpbd.net
 http://server1.ftpbd.net
 http://server4.ftpbd.net
+http://media.ftpbd.net:8096/web/index.html#!/home
 http://103.170.204.84
 http://new.circleftp.net
 http://ftp.midiplexhd.com
