@@ -1,3 +1,5 @@
+http://amaderftp.net:8096/
+http://amaderftp.net
 https://crazyctg.com/
 http://ftp.ctgfun.com/
 http://bokasoka.net/index.php
